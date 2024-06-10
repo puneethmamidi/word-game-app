@@ -1,0 +1,98 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    background-color:#bbbcbce9;
+    font-family: Inter var, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.card {
+    width:475px;height:700px;
+    background-color:rgb(255,255,255); 
+    border-radius: 8px; 
+    padding: 20px;
+}
+
+h3{
+    font-size:25px;
+    margin:5px;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+label {
+    display:flex;
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    
+}
+
+input[type='text'],
+input[type='number'],
+input[type='email'],
+input[type='password'] {
+    width: 100%;
+    border:2px solid rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: bold;
+   
+}
+
+input[type='text']:focus,
+input[type='number']:focus,
+input[type='email']:focus,
+input[type='password']:focus {
+    box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.5);
+    outline: none;
+}
+
+#demo-row-radio-buttons-group-label{
+    margin-right: 550px;
+    color:black;
+    cursor:pointer;
+}
+#Signup_button{
+    margin-top: 15px;
+    padding: 10px;
+    width:100%;
+}
+
+#icon{
+    margin-top:-3px;
+    display: flex;
+    padding-right:3px;
+}
+.error{
+    color:red;
+    padding:0px
+}
+
+.star{
+    color: red;
+    margin: 5px 0px 0px 5px;
+    font-size: 17px;
+}
+.eye-s{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:282px 0px 0px -90px;
+    width:25px;height:36px;
+    color:rgb(121, 121, 122);
+    cursor: pointer;
+}
+
+
+
+
+

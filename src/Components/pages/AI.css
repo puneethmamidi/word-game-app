@@ -1,0 +1,210 @@
+.text-textarea,.text-textarea1{
+    display: inline-block;
+    width: 500px;
+    height:155px;
+    padding: 5px;
+    border-radius: 8px;
+    margin:-15px 0px 0px 230px;
+    background-color:rgba(241, 246, 248, 0.383);
+    font-size: 18px;
+    resize:none;
+    font-family: 'Times New Roman', Times, serifx ;
+    text-align: justify;
+    overflow: auto;
+}
+.text-textarea1{
+    cursor: url(https://img.icons8.com/?size=30&id=GBu1KXnCZZ8j&format=png&color=000000),auto;
+  
+}
+.ai-word{
+    width:220px;height:100%;
+    background-color:rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 29px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    word-spacing: 5rem;
+    text-transform: uppercase;
+    color:#7F669D;
+    border-radius: 18px 0px 0px 18px;
+}
+
+.ai-explain{
+    margin: -428px 0px 0px 225px ;
+    inline-size: 519px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    overflow-wrap: break-word ;
+    line-height: 1.6;
+}
+
+.Ai-card1,.Ai-card2{
+    width:750px;
+    height:425px;
+    background-color:#f0f6f8; 
+    border-radius:18px; 
+   
+    
+}
+
+.Ai-card1{
+    margin:212px 0px 0px 10px;
+}
+.Ai-card2{
+    margin:-475px 0px 0px 780px;
+}
+
+
+.ai-word-count{
+    margin: -70px 0px 0px 690px;
+    color:gray;
+}
+
+.ai-ruler{
+    width:1px;
+    height: 500px;
+    transform: rotate(-180deg);
+    margin: -450px 0px 0px 770px;
+    border:1px solid black;
+    
+}
+.ai-nb{
+    
+    margin-left: 170%;
+    margin-top:200px ;
+}
+.ai-nb button{
+    width:100px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgb(77, 81, 110);
+    font-size: 22px;
+    color:azure;
+    border:none;
+    cursor: pointer;
+}
+.ai-nb button:hover{
+    background-color:rgb(37, 175, 131) ;
+}
+.ai-nb .disabled {
+    background-color: #ccc;
+    color: #fff;
+    cursor: not-allowed;
+  }
+.ai-nb .disabled:hover{
+    background-color: #ccc;
+    color: #fff;
+    cursor: not-allowed;
+}
+
+
+
+.ai-gbt{
+    margin: 250px 0px 0px 120px;
+    padding: 18px;
+    border-radius: 8px;
+    background-color:rgb(77, 81, 110);
+    font-size: 14px;
+    color:azure;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.ai-gbt:hover{
+    background-color: rgb(37, 175, 131);
+}
+.ai-gbt:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+
+
+  .ai-start{
+    padding: 10px;
+    width:250px;
+    font-size: 25px;
+    border:none;
+    border-radius: 8px;
+    margin: 550px 0px 0px -130px;
+    cursor: pointer;
+    background-color:rgb(224, 236, 244)
+}  
+
+
+.ai-time{
+    margin:-450px 0px 0px -85px; 
+    font-size: 30px;
+    padding: 20px;
+    width: 110px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: rgba(0,0,0,0.2);
+
+}
+
+.ai-comp{
+    font-size: 30px;
+    border:1px dashed rgb(24, 28, 29);
+    width:500px;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: bolder;
+    text-shadow: 0px 4px 4px rgb(235, 238, 240);
+   
+}
+
+.ai-comp-cont{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-align: center;
+    margin:-700px 25px 0px 0px;
+
+}
+
+
+.ai-score{
+    margin: 0px 0px 0px 300px;
+    font:25px bolder ;
+}
+.ai-score-cont{
+    margin:35px 0px 0px 0px;
+}
+.ai-score1{
+    margin: 0px 0px 0px 300px;
+    font:25px bolder ;
+}
+
+.ai-word-count{
+    margin: -305px 0px 0px 690px;
+    color:gray;
+}
+
+
+.ai-page,.ai-page1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:grey;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.ai-page{
+    margin: -170px 0px 0px 660px;
+}
+.ai-page1{
+    margin: 420px 0px 0px 665px;
+}
+
+.bot-img{
+    margin: 0px 0px -10px 10px ;
+
+    border:none;
+}

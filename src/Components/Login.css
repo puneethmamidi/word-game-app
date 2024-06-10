@@ -1,0 +1,49 @@
+.card_login{
+    width:420px;
+    height:420px;
+    background-color:rgba(255,255,255); 
+    border-radius: 8px; 
+    padding: 20px;
+}
+
+#email,#password{
+    margin-top: -3px;
+}
+.error{
+    color:red;
+}
+#forgot{
+    margin-left:200px;
+    text-decoration: none;
+    color:#4F46E5;
+    
+    
+}
+#forgot:hover,.link-s:hover{
+    color:#a4a1f3;
+    cursor: pointer;
+}
+
+.link-s {
+    text-decoration: none;
+    color:#4F46E5;
+}
+.pm{
+    color: gray;
+}
+
+
+.lh-3{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+ .eye{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:-390px 0px 0px 345px;
+    color:rgb(121, 121, 122);
+    cursor: pointer;
+}

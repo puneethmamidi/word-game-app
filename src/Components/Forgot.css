@@ -1,0 +1,47 @@
+.forgot-con{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #B5C0D0;
+}
+
+.forgot-card{
+    width:550px;height:320px;
+    margin: 260px ;
+    border-radius: 10px;
+    background-color:rgba(0,0,0,0.1);
+}
+
+.em{
+    margin-top:5px;
+    border: none;
+    background-color:#F6F5F2;
+    border-radius:1px;
+    height: 45px;
+}
+
+.submit{
+    margin: 10px 0px 0px 0px;
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    background-color:rgb(93, 93, 235);
+    color:#F6F5F2;
+    border-radius: 5px;
+    border:none;
+}
+.la{
+    margin: 35px 0px 0px 10px;
+    padding: 0px;
+    font-size:20px;
+}
+.fo{
+    
+    font-size: 30px;
+}
+
+#icon-1{
+    margin-right: 5px;
+}

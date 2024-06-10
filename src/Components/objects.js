@@ -1,0 +1,44 @@
+const words = 
+[
+    {
+        id:1,
+        word:'pen'
+    },
+    {
+        id:2,
+        word:'chair'
+    },
+    {
+        id:3,
+        word:'fan'
+    },
+    {
+        id:4,
+        word:'bed'
+    },
+    {
+        id:5,
+        word:'table'
+    },
+    {
+        id:6,
+        word:'pencil'
+    },
+    {
+        id:7,
+        word:'laptop'
+    },
+    {
+        id:8,
+        word:'mouse'
+    },
+    {
+        id:9,
+        word:'keyboard'
+    },
+    {
+        id:10,
+        word:'joystick'
+    },
+
+]
